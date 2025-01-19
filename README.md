@@ -9,6 +9,19 @@ It features Apple's beautiful typefaces:
 
 I've tried my best to follow Apple's design principles, but I'd love your help to make it even better! 👀 If you spot any spacing, kerning, or margin issues that need fixing, please jump in and contribute. Let's make this resource amazing for everyone in the community!
 
+## 🛠️ Tech Stack
+
+- **Framework**: [React 18](https://react.dev/) with [TypeScript](https://www.typescriptlang.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**:
+  - [@headlessui/react](https://headlessui.com/) - Unstyled, accessible UI components
+  - [@heroicons/react](https://heroicons.com/) - Beautiful hand-crafted SVG icons
+- **Development Tools**:
+  - ESLint for code linting
+  - TypeScript for type safety
+  - PostCSS for CSS processing
+
 ## 🤝 How to Contribute
 
 1. 🍴 Fork this repository
